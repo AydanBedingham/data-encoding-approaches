@@ -10,3 +10,7 @@ Explores data encoding approaches (One-Hot Encoding for Nominal Data, Label Codi
 ## Categorical Nominal:
 
 - scikitlearn-label-encoding - Label Encoding with SciKitLearn (LabelEncoder)
+
+## DateTime:
+
+- scikitlearn-datetime-encoding - DateTime Encoding with SciKitLearn (Various Approaches)
